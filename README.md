@@ -4,7 +4,7 @@
 <!--
 **pragna007/pragna007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
-https://github.com/pragna007/pragna007/commit/8d330037002edfc31dd11e3581efe629b315e88b#diff-e4770f0dd31a99178b535c558eac01e4a21da8adf1eecb09584ca4df40a47ebe
+![Its ok break Downs are Common in IT Industry](https://github.com/pragna007/pragna007/blob/main/intro_imagerr.jpg?raw=true)
 
 Completed My Master's in Computer Science on  August 2022 from University of North Texas.
 Completed My Bachelor's in Computer Science  on August 2020 from Osmania University
