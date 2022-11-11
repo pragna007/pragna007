@@ -4,7 +4,7 @@
 <!--
 **pragna007/pragna007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
-https://raw.GitHubuserContent.com/pragna007/pragna007/main/intro.png
+https://raw.GitHubuserContent.com/pragna007/pragna007/main/intro image.png
 
 Completed My Master's in Computer Science on  August 2022 from University of North Texas.
 Completed My Bachelor's in Computer Science  on August 2020 from Osmania University
